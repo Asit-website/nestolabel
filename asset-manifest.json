@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a137b7c8.css",
+    "main.js": "/static/js/main.15134186.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/handSack.jpg": "/static/media/handSack.4745f960ae9ffc6f3fab.jpg",
+    "static/media/mansa.png": "/static/media/mansa.96ff35cd62fa953daeb6.png",
+    "static/media/manHome.png": "/static/media/manHome.40881005a9e7685a17eb.png",
+    "static/media/real.png": "/static/media/real.1761e67cae7468e4afbd.png",
+    "static/media/card1.png": "/static/media/card1.46c642b5697592c9a798.png",
+    "static/media/card2.png": "/static/media/card2.b3f7578265d2e52f24b7.png",
+    "static/media/benifits.png": "/static/media/benifits.de569686b07a6b7dbfb2.png",
+    "static/media/card3.png": "/static/media/card3.c4b20a3a57a382fad9d6.png",
+    "static/media/women.png": "/static/media/women.aedcaa0aa46919c44260.png",
+    "static/media/Rectangle 16.png": "/static/media/Rectangle 16.c870782bd4a53bb02ff4.png",
+    "static/media/home1.png": "/static/media/home1.afb017754b2312f08093.png",
+    "static/media/home3.png": "/static/media/home3.f90d5f51a1c820005f86.png",
+    "static/media/home2.png": "/static/media/home2.fda3569b7a2035ed81ac.png",
+    "static/media/google-play.png": "/static/media/google-play.93e8d43df9b4c84e42f1.png",
+    "static/media/logo.png": "/static/media/logo.20fbfc9ac705f18ef65d.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.a137b7c8.css.map": "/static/css/main.a137b7c8.css.map",
+    "main.15134186.js.map": "/static/js/main.15134186.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a137b7c8.css",
+    "static/js/main.15134186.js"
+  ]
+}
